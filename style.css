@@ -4,5 +4,5 @@
  * See http://animista.net/license for more info. 
  * w: http://animista.net, t: @cssanimista
  * ---------------------------------------------- */
-
+.upAni{-webkit-animation:slide-top .5s cubic-bezier(.785,.135,.15,.86) 20ms;animation:slide-top .5s cubic-bezier(.785,.135,.15,.86) 20ms}
 @-webkit-keyframes slide-top{0%{-webkit-transform:translateY(0);transform:translateY(0)}100%{-webkit-transform:translateY(-100px);transform:translateY(-100px)}}@keyframes slide-top{0%{-webkit-transform:translateY(0);transform:translateY(0)}100%{-webkit-transform:translateY(-100px);transform:translateY(-100px)}}
